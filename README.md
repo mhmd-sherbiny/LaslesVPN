@@ -25,4 +25,4 @@ This project is a practice for frontend development focusing on clean design, re
 
 ## 📸 Preview
 
-![LaslesVPN Screenshot](./screenshot.png)
+![LaslesVPN Screenshot](./Screenshot.png)
